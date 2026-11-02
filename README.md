@@ -1,6 +1,7 @@
 # KBS Diabete
 Repository per il progetto di ingegneria della conoscenza 2026-2027. Realizzato da:
  - Castellano Giorgia (mat. 826279)
+ - Liguori Silvia     (mat. 838174)
 
 # Installazione
 Posizionarsi all'interno della root principale:
